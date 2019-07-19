@@ -1,6 +1,6 @@
 ---
 title: "Jack Gordon's Portfolio"
-featured_image: "/images/laptop.jpg"
+featured_image: "/assets/laptop.jpg"
 ---
 
 # Welcome to my website!
