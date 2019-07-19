@@ -13,6 +13,7 @@
   },
   "dependencies": {
     "moment": "^2.24.0",
-    "vuepress-plugin-blog-multidir": "^1.0.5"
+    "vuepress-plugin-blog-multidir": "^1.0.5",
+    "vuepress-plugin-sitemap": "^2.1.2"
   }
 }

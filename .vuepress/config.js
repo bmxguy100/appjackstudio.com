@@ -15,5 +15,10 @@ module.exports = {
         // footer: [
         //     { text: 'Github', link: 'https://github.com/tolking' }
         // ]
+    },
+    plugins: {
+        sitemap: {
+            hostname: 'https://appjackstudio.com'
+        }
     }
 }
