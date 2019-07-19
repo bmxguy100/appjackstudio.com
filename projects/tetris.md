@@ -1,7 +1,7 @@
 ---
 title: "Tetris for the TI84 Plus CE"
 date: 2019-05-30
-featured_image: "/assets/tetris.jpg"
+image: "/assets/tetris.jpg"
 ---
 A port of tetris for my graphing calculator using the [CE-Programming toolchain](https://github.com/CE-Programming/toolchain)
 

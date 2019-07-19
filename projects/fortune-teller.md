@@ -1,5 +1,6 @@
 ---
 title: "Fortune Teller"
+image: "/assets/fortune-teller.png"
 date: 2012-10-21
 ---
 Fortune Teller is a fun little game that I made in third grade. This was the first time created my own sound and image assets for one of my projects. I made it using [scratch](https://scratch.mit.edu/about)

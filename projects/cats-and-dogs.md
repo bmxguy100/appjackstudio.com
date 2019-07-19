@@ -1,6 +1,7 @@
 ---
 title: "Cats and Dogs"
 date: 2019-07-17
+image: "/assets/cats-and-dogs-collage.jpg"
 ---
 This project is a AI that can tell the difference between a cat and a dog. Upload an image, press the `ANALYZE IMAGE` button, and the AI will determine if it thinks the photo contains a cat or a dog.
 

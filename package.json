@@ -1,0 +1,17 @@
+{
+  "name": "appjackstudio.com",
+  "version": "1.0.0",
+  "description": "My Website powered by VuePress",
+  "author": "Jack Gordon",
+  "scripts": {
+    "dev": "vuepress dev",
+    "build": "vuepress build"
+  },
+  "devDependencies": {
+    "css-prefers-color-scheme": "^4.0.0",
+    "vuepress": "^1.0.2"
+  },
+  "dependencies": {
+    "vuepress-plugin-blog-multidir": "^1.0.5"
+  }
+}
