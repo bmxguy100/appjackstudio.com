@@ -9,11 +9,11 @@
   },
   "devDependencies": {
     "css-prefers-color-scheme": "^4.0.0",
-    "vuepress": "^1.0.2"
+    "vuepress": "^1.4.0"
   },
   "dependencies": {
     "moment": "^2.24.0",
     "vuepress-plugin-blog-multidir": "^1.0.5",
-    "vuepress-plugin-sitemap": "^2.1.2"
+    "vuepress-plugin-sitemap": "^2.3.1"
   }
 }
